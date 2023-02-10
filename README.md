@@ -1,10 +1,6 @@
-# yamisora-sys 's Profile
+# :notebook_with_decorative_cover: yamisora's profile
+[![GitHub Streak](https://streak-stats.demolab.com?user=ledinhthachquang&theme=dracula&border_radius=6.2&mode=weekly)](https://git.io/streak-stats)
 
->Everythin start at ZERO
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ledinhthachquang&show_icons=true&theme=dracula)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamisora-sys&show_icons=true&locale=en&layout=compact" alt="yamisora-sys" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamisora-sys&show_icons=true&locale=en" alt="yamisora-sys" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamisora-sys&" alt="yamisora-sys" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledinhthachquang&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
